@@ -6,7 +6,10 @@ This is first file in this repo.
 
 ## TEST TEXT 
 
-tutorial to git and references
+tutorial to git and references.
+Testing changes in file to be commited.
 
 
-Testing changes in file to be commited
+## WEBSITE CONTENT
+
+index.html 
