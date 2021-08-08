@@ -11,5 +11,6 @@ Testing changes in file to be commited.
 
 
 ## WEBSITE CONTENT
+Below are the files in our project :
 
 index.html 
